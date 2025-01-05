@@ -1,0 +1,3 @@
+Jour 1 : Apprentissage Python.
+Jour 2 : Exploration des modules.
+Jour 3 : Création de scripts pratiques.

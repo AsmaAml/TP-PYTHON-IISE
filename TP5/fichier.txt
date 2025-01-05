@@ -1,0 +1,3 @@
+Le nombre total de lignes.
+Le nombre total de mots.
+Le nombre total de caractères.
